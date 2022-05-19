@@ -1,0 +1,3 @@
+include ':aliyunPush'
+include ':app'
+rootProject.name = "wt"
